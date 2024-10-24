@@ -217,6 +217,7 @@ void main_handle_caesar_cipher()
 
 int main()
 {
+	std::cout << "test" << std::endl;
 	std::thread titleThread(set_random_title);
 	titleThread.detach();
 	bool flag = true;
