@@ -1,9 +1,7 @@
 #include <iostream>
 #include "tinylock.h"
 
-// adauga mai multe methode de criptare
-
-void set_console_title(const std::string& title) // nu stiu daca are sens
+void set_console_title(const std::string& title)
 {
 	system(("title " + title).c_str());
 }
