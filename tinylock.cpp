@@ -1,7 +1,6 @@
 #include <iostream>
 #include "tinylock.h"
 
-// adauga nume random si animate + criptate
 // adauga mai multe methode de criptare
 
 void set_console_title(const std::string& title) // nu stiu daca are sens
