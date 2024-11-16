@@ -34,4 +34,9 @@ This C++ project showcases the implementation of two iconic cryptographic algori
 To compile the program using `g++`:
 
 ```bash
-g++ -std=c++11 -o classic_ciphers main.cpp
+g++ -std=c++11 -o ciphers main.cpp
+
+### Running the program
+
+```bash
+./ciphers
