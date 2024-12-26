@@ -333,7 +333,7 @@ int main()
                 flag = false;
                 break;
             default:
-                std::cout << "Optiune nevalida" << std::endl;
+                std::cout << "Optiune invalida" << std::endl;
                 flag = false;
                 break;
         }
